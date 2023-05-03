@@ -1,6 +1,6 @@
 # thyroid_nodule_PRS
 
-This repository contains code from the manuscript:
+This repository contains code and supplementary data from the manuscript:
 
 Thyroid cancer polygenic risk score combined with deep learning analysis of ultrasound images improves the classification of thyroid nodules as benign or malignant. 
 
