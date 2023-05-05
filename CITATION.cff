@@ -1,0 +1,53 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Thyroid cancer polygenic risk score improves
+  classification of thyroid nodules as benign or malignant. 
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Nikita
+    family-names: Pozdeyev
+    email: nikita.pozdeyev@cuanschutz.edu
+    orcid: 'https://orcid.org/0000-0001-8574-1972'
+  - given-names: Manjiri
+    family-names: Dighe
+  - given-names: Martin
+    family-names: Barrio
+  - given-names: 'Christopher '
+    family-names: Raeburn
+  - given-names: 'Harry '
+    family-names: Smith
+  - given-names: 'Matthew '
+    family-names: Fisher
+  - given-names: 'Sameer '
+    family-names: Chavan
+  - given-names: 'Nicholas '
+    family-names: Rafaels
+  - given-names: 'Jonathan A. '
+    family-names: Shortt
+  - given-names: Meng
+    family-names: Lin
+  - given-names: 'Michael G. '
+    family-names: Leu
+  - given-names: 'Toshimasa '
+    family-names: Clark
+  - given-names: 'Carrie '
+    family-names: Marshall
+  - given-names: 'Bryan R. '
+    family-names: Haugen
+  - given-names: 'Devika '
+    family-names: Subramanian
+  - given-names: 'Regeneron '
+    family-names: Genetics Center
+  - given-names: 'Kristy '
+    family-names: Crooks
+  - given-names: 'Christopher '
+    family-names: Gignoux
+  - given-names: 'Trevor '
+    family-names: Cohen
+repository-code: 'https://github.com/npozdey/thyroid_nodule_PRS'
